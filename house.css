@@ -1,0 +1,22 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ .body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+ }
+ .house{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    position: relative;
+    width: 700px;
+    height: 350px;
+    background-color:rgb(68, 68, 196);
+    border-bottom: 8px solid green;
+ }
